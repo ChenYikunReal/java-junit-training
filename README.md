@@ -1,3 +1,3 @@
-# JUnit
+# JUnit练习
 
-![](images/junit-java.jpg)
+![](images/junit.jpg)
